@@ -1,7 +1,7 @@
 Squelch! I've got Cucumber in my Shoes...
 =========================================
 
-![Screenshot]('http://metade.org/code/squelch/squelch.jpg')
+![Screenshot](http://metade.org/code/squelch/squelch.jpg)
 
 What?
 -----
