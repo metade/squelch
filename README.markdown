@@ -1,10 +1,12 @@
 Squelch! I've got Cucumber in my Shoes...
 =========================================
 
+![Screenshot]('http://metade.org/code/squelch/squelch.jpg')
+
 What?
 -----
 
-A tool for parsing features written in Cucumber to ensure that the syntax is correct.
+A tool for parsing features written in [Cucumber](http://github.com/aslakhellesoy/cucumber/wikis) to ensure that the syntax is correct.
 
 Why?
 ----
@@ -16,12 +18,16 @@ How?
 
 Load a Cucumber feature file to check if the syntax is correct. If you edit the file, click on the cucumber image to recheck the feature.
 
+Download
+--------
+
+Download an installer: at http://metade.org/code/squelch/
+
 Credits
 -------
 
 Cucumber Image Credit:
 http://flickr.com/photos/vizzzual-dot-com/2738586453/
-
 
 The MIT License
 ---------------
