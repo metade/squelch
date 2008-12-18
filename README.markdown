@@ -11,6 +11,14 @@ Why?
 
 So that non-technical members of a team can author the Cucumber feature stories without having to install Ruby, and so that they don't have to do it on the command line.
 
+How?
+----
+
+Load a Cucumber feature file to check if the syntax is correct. If you edit the file, click on the cucumber image to recheck the feature.
+
+Credits
+-------
+
 Cucumber Image Credit:
 http://flickr.com/photos/vizzzual-dot-com/2738586453/
 
